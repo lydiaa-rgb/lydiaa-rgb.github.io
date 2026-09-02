@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[77916,["/if-love-had-a-shape/_next/static/chunks/0x3ihz4ku5fm6.js","/if-love-had-a-shape/_next/static/chunks/17f2ht9wo-phb.js"],"ViewportBoundary"]
+3:I[77916,["/if-love-had-a-shape/_next/static/chunks/0x3ihz4ku5fm6.js","/if-love-had-a-shape/_next/static/chunks/17f2ht9wo-phb.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"如果爱有形状｜你的恋爱人格侧写"}],["$","meta","1",{"name":"description","content":"24 个关于靠近、表达、期待与修复的问题，读懂自己爱一个人的样子。"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZaIXRx-6X78eji-CZZ_Xe"}

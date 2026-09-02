@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[7934,["/if-love-had-a-shape/_next/static/chunks/0x3ihz4ku5fm6.js","/if-love-had-a-shape/_next/static/chunks/17f2ht9wo-phb.js"],"ClientPageRoot"]
+3:I[31713,["/if-love-had-a-shape/_next/static/chunks/0x3ihz4ku5fm6.js","/if-love-had-a-shape/_next/static/chunks/17f2ht9wo-phb.js","/if-love-had-a-shape/_next/static/chunks/0vm.vi3kjzzmz.js"],"default"]
+6:I[77916,["/if-love-had-a-shape/_next/static/chunks/0x3ihz4ku5fm6.js","/if-love-had-a-shape/_next/static/chunks/17f2ht9wo-phb.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/if-love-had-a-shape/_next/static/chunks/0vm.vi3kjzzmz.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZaIXRx-6X78eji-CZZ_Xe"}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
